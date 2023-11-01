@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ba968f4-09a2-4864-b8a7-8dae87722173" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/common/imgs/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -31,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryan/Desktop/hieu nhi demo/website/hieu_nhi.iwedding.info/hieu-nhi/common/imgs",
+    "last_opened_file_path": "/Users/ryan/Desktop/hieu nhi demo/website/hieu_nhi.iwedding.info/hieu-nhi/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -41,7 +40,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709" />
       <recent name="$PROJECT_DIR$/common/imgs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +59,8 @@
       <workItem from="1698679114556" duration="7000" />
       <workItem from="1698679466638" duration="5005000" />
       <workItem from="1698764043565" duration="266000" />
-      <workItem from="1698764486389" duration="3440000" />
+      <workItem from="1698764486389" duration="4038000" />
+      <workItem from="1698855622813" duration="626000" />
     </task>
     <servers />
   </component>
