@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="3ba968f4-09a2-4864-b8a7-8dae87722173" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/619902798d8a4918ca205513/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/6199027ed7e97a1853119578/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/619902821ca1d308fe5da283/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/61990285d5c0e352ac024b42/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/6199028adb8f76231c132062/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/6199028d8d8a4918ca205514/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/61990291c41d7b37de534632/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/61990296d7e97a1853119579/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/6199029c1ca1d308fe5da284/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/619902a0d5c0e352ac024b43/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/619902a5f7c65c763d2ef0e2/small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/default/website/galleries/61990322c41d7b37de534633/small.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/ryan/Desktop/hieu nhi demo/website/hieu_nhi.iwedding.info/hieu-nhi/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryan/Desktop/hieu nhi demo/website/hieu_nhi.iwedding.info/hieu-nhi/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cdn.biihappy.com/ziiweb/website/653d1e83a3324181c600c27b/templates/644000ba4f8e0c7ddf09c709" />
@@ -60,7 +72,8 @@
       <workItem from="1698679466638" duration="5005000" />
       <workItem from="1698764043565" duration="266000" />
       <workItem from="1698764486389" duration="4038000" />
-      <workItem from="1698855622813" duration="626000" />
+      <workItem from="1698855622813" duration="1257000" />
+      <workItem from="1698939558079" duration="3741000" />
     </task>
     <servers />
   </component>
